@@ -1,0 +1,8 @@
+[
+  {"id":1,"title":"Đắc Nhân Tâm","author":"Dale Carnegie","category":"Kỹ năng sống","year":1936,"pages":320,"cover":"https://covers.openlibrary.org/b/isbn/9780671027032-L.jpg","description":"Cuốn sách tập trung vào nghệ thuật giao tiếp, ứng xử và xây dựng mối quan hệ tích cực với những người xung quanh."},
+  {"id":2,"title":"Nhà Giả Kim","author":"Paulo Coelho","category":"Tiểu thuyết","year":1988,"pages":208,"cover":"https://covers.openlibrary.org/b/isbn/9780062315007-L.jpg","description":"Một câu chuyện giàu tính biểu tượng về hành trình theo đuổi ước mơ và khám phá ý nghĩa của cuộc sống."},
+  {"id":4,"title":"Clean Code","author":"Robert C. Martin","category":"Công nghệ","year":2008,"pages":464,"cover":"https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg","description":"Tài liệu nổi tiếng về cách viết mã nguồn rõ ràng, dễ bảo trì và có cấu trúc tốt."},
+  {"id":5,"title":"Atomic Habits","author":"James Clear","category":"Phát triển bản thân","year":2018,"pages":320,"cover":"https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg","description":"Trình bày phương pháp hình thành thói quen tốt và cải thiện bản thân thông qua những thay đổi nhỏ."},
+  {"id":6,"title":"Harry Potter và Hòn đá Phù thủy","author":"J. K. Rowling","category":"Giả tưởng","year":1997,"pages":223,"cover":"https://covers.openlibrary.org/b/isbn/9780590353427-L.jpg","description":"Phần mở đầu của thế giới phù thủy Harry Potter, kể về những năm tháng đầu tiên của Harry tại Hogwarts."},
+  {"id":8,"title":"Lược Sử Thời Gian","author":"Stephen Hawking","category":"Khoa học","year":1988,"pages":256,"cover":"https://covers.openlibrary.org/b/isbn/9780553380163-L.jpg","description":"Cuốn sách phổ biến các ý tưởng lớn về vũ trụ, thời gian, hố đen và nguồn gốc của vũ trụ."}
+]
