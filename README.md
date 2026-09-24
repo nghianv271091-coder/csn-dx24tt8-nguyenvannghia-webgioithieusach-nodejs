@@ -16,6 +16,9 @@
 | **Mã số sinh viên**      | 170124877                                       |
 | **Lớp**                  | DX24TT8                                         |
 | **Khóa**                 | 2024 - 2028                                     |
+| **Email**                |nghianv271091@tvu-onschool.edu.vn                                       |
+| **Số điện thoại**        |0362630767 
+
 | **Giảng viên hướng dẫn** | ThS. Phạm Thị Trúc Mai                          |
 | **Ngành**                | Công nghệ thông tin                             |
 | **Trường**               | Đại học Trà Vinh                                |
@@ -42,7 +45,6 @@
 * Xây dựng chức năng lọc sách theo thể loại.
 * Xây dựng chức năng sắp xếp sách.
 * Xây dựng chức năng xem thông tin chi tiết của sách.
-* Xây dựng chức năng phân trang.
 * Xử lý các sự kiện tương tác của người dùng.
 * Cập nhật nội dung giao diện bằng DOM mà không cần tải lại toàn bộ trang.
 * Kiểm thử các chức năng chính của ứng dụng.
@@ -59,7 +61,6 @@
 * Lọc sách theo thể loại.
 * Sắp xếp sách.
 * Xem thông tin chi tiết sách.
-* Phân trang danh sách sách.
 * Điều hướng giữa các khu vực nội dung trong cùng một trang.
 * Cập nhật giao diện bằng JavaScript.
 * Thiết kế giao diện có khả năng hiển thị trên nhiều kích thước màn hình.
@@ -104,7 +105,7 @@ Các nội dung sử dụng:
 * Quản lý DOM (`document.getElementById`, `innerHTML`, `appendChild`).
 * Cơ chế bắt lỗi ảnh tải từ API thông qua sự kiện `onerror` trực tiếp trên phần tử ảnh để thay thế bằng link ảnh mặc định (`placehold.co`), loại bỏ hoàn toàn ô xám lỗi giao diện.
 * Các hàm chức năng: `map()`, `filter()`, `find()`, `sort()`.
-* Tìm kiếm, lọc dữ liệu, sắp xếp dữ liệu, phân trang và hiển thị chi tiết sách.
+* Tìm kiếm, lọc dữ liệu, sắp xếp dữ liệu và hiển thị chi tiết sách.
 
 
 ## 5.4. Visual Studio Code
@@ -132,9 +133,9 @@ GitHub được sử dụng để:
 | 3   | Lọc           | Lọc sách theo thể loại                          |
 | 4   | Sắp xếp       | Sắp xếp danh sách sách theo tiêu chí được chọn  |
 | 5   | Xem chi tiết  | Hiển thị thông tin chi tiết của một đầu sách    |
-| 6   | Phân trang    | Chia danh sách sách thành nhiều trang           |
-| 7   | Điều hướng    | Điều hướng giữa các khu vực nội dung            |
-| 8   | Responsive    | Hiển thị phù hợp trên nhiều kích thước màn hình |
+trang           |
+| 6   | Điều hướng    | Điều hướng giữa các khu vực nội dung            |
+| 7   | Responsive    | Hiển thị phù hợp trên nhiều kích thước màn hình |
 
 ---
 # 7. Cấu trúc dữ liệu sách
@@ -272,12 +273,6 @@ JavaScript xử lý dữ liệu và cập nhật lại danh sách sách.
 Người dùng chọn một đầu sách.
 Hệ thống tìm thông tin tương ứng và hiển thị nội dung chi tiết.
 
-## 11.6. Phân trang
-Danh sách sách được chia thành nhiều trang.
-Người dùng có thể chuyển:
-* Trang trước.
-* Trang sau.
-* Trang cụ thể.
 ---
 
 # 12. Yêu cầu phi chức năng
@@ -333,7 +328,6 @@ Các nội dung nghiên cứu:
 * `sort()`.
 * Tìm kiếm.
 * Lọc dữ liệu.
-* Phân trang.
 * Responsive Web Design.
 
 ### Kết quả dự kiến của Tuần 1
@@ -363,7 +357,6 @@ Lựa chọn các kiến thức phù hợp với ứng dụng:
 * `sort()` để sắp xếp.
 * `map()` để xử lý dữ liệu.
 * JSON để tổ chức dữ liệu nếu cần.
-* Pagination để phân trang.
 
 ### Phần 2: Nghiên cứu chuyên sâu
 #### 2.1. Xây dựng mô hình, sơ đồ, dữ liệu
@@ -418,7 +411,6 @@ Tiếp tục xây dựng và hoàn thiện ứng dụng:
 * Hoàn thiện chức năng lọc.
 * Hoàn thiện chức năng sắp xếp.
 * Xây dựng chức năng xem chi tiết.
-* Xây dựng chức năng phân trang.
 * Xử lý các sự kiện trên giao diện.
 * Kiểm tra hoạt động của từng chức năng.
 
@@ -437,7 +429,6 @@ Tiếp tục hoàn thiện chương trình:
 * Kiểm tra chức năng lọc.
 * Kiểm tra chức năng sắp xếp.
 * Kiểm tra chức năng xem chi tiết.
-* Kiểm tra chức năng phân trang.
 * Kiểm tra giao diện Responsive.
 * Sửa lỗi phát sinh.
 * Tối ưu mã nguồn.
