@@ -18,7 +18,6 @@
 | **Khóa**                 | 2024 - 2028                                     |
 | **Email**                |nghianv271091@tvu-onschool.edu.vn                                       |
 | **Số điện thoại**        |0362630767 
-
 | **Giảng viên hướng dẫn** | ThS. Phạm Thị Trúc Mai                          |
 | **Ngành**                | Công nghệ thông tin                             |
 | **Trường**               | Đại học Trà Vinh                                |
