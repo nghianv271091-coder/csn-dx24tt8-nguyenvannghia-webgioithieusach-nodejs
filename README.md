@@ -27,7 +27,7 @@
 | **Công cụ phát triển**   | Visual Studio Code                              |
 | **Công cụ chạy thử**     | Live Server                                     |
 | **Repository**           | https://github.com/nghianv271091-coder/csn-dx24tt8-nguyenvannghia-webgioithieusach-nodejs               |
-
+| **Link phần mềm**           | https://nghianv271091-coder.github.io/csn-dx24tt8-nguyenvannghia-webgioithieusach-nodejs/scr/index.html               |
 ---
 # 3. Mục tiêu đồ án
 ## 3.1. Mục tiêu tổng quát
